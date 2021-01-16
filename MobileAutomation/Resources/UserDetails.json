@@ -1,0 +1,9 @@
+{
+	"userDetails": [
+		{
+			"userType": "LoggedInUser",
+			"emailID": "standard_user",
+			"password": "secret_sauce"
+		}
+	]
+}
